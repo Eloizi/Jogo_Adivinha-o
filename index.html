@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jogo de Adivinhação</title>
+  <link rel="stylesheet" href="style.css">
+
+  <style>
+    #acertou-img {
+      display: none;
+      max-width: 100%;
+      height: auto;
+    }
+    #mostrarJogo{
+      display: block;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="titulo">
+    <h1 class="page-title">
+      Jogo de Adivinhação
+    </h1>
+    <img src="https://www.alura.com.br/assets/img/imersoes/dev-2021/logo-imersao-aluraflix.svg" class="page-logo"
+      alt="imersão Alura Dev">
+
+  </div>
+  <div class="container">
+    <div class="center">
+      <button class="btn" id="mostrarJogo">
+        <svg width="180px" height="60px" viewBox="0 0 180 60" class="border">
+          <polyline points="179,1 179,59 1,59 1,1 179,1" class="bg-line" />
+          <polyline points="179,1 179,59 1,59 1,1 179,1" class="hl-line" />
+        </svg>
+        <span>PLAY</span>
+      </button>
+    </div>
+  </div>
+
+  <aside id="acertou-img">
+    <img src="https://usagif.com/wp-content/uploads/gifki-aplodismenti-11.gif" alt="Parabéns!">
+  </aside>
+
+
+
+  <footer> by: Ello ❤️ - 2023</footer>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
