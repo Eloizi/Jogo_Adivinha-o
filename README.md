@@ -1,6 +1,6 @@
 # <h1 align="center"> Projeto ↔️ Jogo Adivinhação  🤔 ⁉️ </h1>
 <p >
-A semana de Imersão da Alura <a href="https://cursos.alura.com.br/imersao?utm_source=social&utm_medium=whatsapp&utm_campaign=imers%C3%A3odev7">"Imersão_Dev"</a>, ministrada por Paulo Silveira, Guilherme Lima e Rafaella Ballerini, proporcionou a oportunidade de aprofundar nosso entendimento sobre a linguagem JavaScript. Através de exercícios praticos e pequenos desafios fomos capazes de explorar aspectos fundamentais, tais como o uso eficiente de estruturas de repetição, como o "while", além da criação e manipulação de variáveis e funções.
+A semana de Imersão da Alura <a href="https://cursos.alura.com.br/imersao?utm_source=social&utm_medium=whatsapp&utm_campaign=imers%C3%A3odev7">"Imersão_Dev"</a>, ministrada por Paulo Silveira, Guilherme Lima e Rafaella Ballerini, proporcionou a oportunidade de aprofundar nosso entendimento sobre a linguagem de programação JavaScript. Através de exercícios praticos e pequenos desafios fomos capazes de explorar aspectos fundamentais, tais como o uso eficiente de estruturas de repetição, como o "while", além da criação e manipulação de variáveis e funções.
 </p>
 
 <p align="center">
