@@ -15,7 +15,7 @@ A semana de Imersão da Alura <a href="https://cursos.alura.com.br/imersao?utm_s
 </p>
 <br>
 <br>
-<p align="center"><img width="30%" src="https://usagif.com/wp-content/uploads/gifki-aplodismenti-11.gif" alt="gif flex-box"></p>
+<p align="center"><img width="50%" src="https://media.tenor.com/BhcXxJfvdIcAAAAd/pensando-deixa-eu-pensar.gif" alt="gif deixa-eu-pensar"></p>
 <br>
 <br>
 
