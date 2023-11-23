@@ -1,4 +1,4 @@
-# o<h1 align="center"> Projeto ↔️ Jogo Adivinhação  🤔 ⁉️ </h1>
+# <h1 align="center"> Projeto ↔️ Jogo Adivinhação  🤔 ⁉️ </h1>
 <h3>Posicionamento de Elementos com Flexbox.</h3>
 <p >
 A semana de Imersão da Alura <a href="https://cursos.alura.com.br/imersao?utm_source=social&utm_medium=whatsapp&utm_campaign=imers%C3%A3odev7">"Imersão_Dev"</a>, ministrada por Paulo Silveira, Guilherme Lima e Rafaella Ballerini, proporcionou a oportunidade de aprofundar nosso entendimento sobre a linguagem JavaScript. Através de exercícios praticos e pequenos desafios fomos capazes de explorar aspectos fundamentais, tais como o uso eficiente de estruturas de repetição, como o "while", além da criação e manipulação de variáveis e funções.
@@ -30,7 +30,7 @@ Projeto desenvolvido com as seguintes tecnologias:
 
 
 ## 💻 Projeto
-link do projeto: <a href="https://eloizi.github.io/flexbox-alurinha/" alt="link para acessar o site">Clique aqui para ver o projeto finalizado</a><br><br>
+link do projeto: <a href="https://eloizi.github.io/Jogo_Adivinha-o/" alt="link para acessar o site">Clique aqui para ver o projeto finalizado</a><br><br>
 
 
 ## :memo: Licença
